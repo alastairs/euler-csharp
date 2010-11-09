@@ -1,0 +1,10 @@
+obj/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+_Re[Ss]harper.*
+*.resharper
+*.resharper.user
+*.suo
+*.cache
+*.user
