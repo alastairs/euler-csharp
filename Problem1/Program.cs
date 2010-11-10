@@ -9,6 +9,8 @@ namespace Problem1
     {
         static void Main(string[] args)
         {
+            int result = new Calculator().Calculate(Enumerable.Range(1, 999));
+            Console.WriteLine(string.Format("Project Euler Problem 1 result is {0}.", result));
         }
     }
 }
